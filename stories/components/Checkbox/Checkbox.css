@@ -1,0 +1,21 @@
+.checkbox {
+    display: flex;
+    align-items: center;
+  }
+  
+  .checkbox input {
+    margin-right: 8px;
+  }
+  
+  .checkbox.main label {
+    color: blue;
+  }
+  
+  .checkbox.disabled label {
+    color: gray;
+  }
+  
+  .checkbox.alert label {
+    color: red;
+  }
+  

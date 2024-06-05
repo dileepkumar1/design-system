@@ -1,0 +1,38 @@
+/* src/styles/Chip.css */
+.chip {
+    display: inline-block;
+    padding: 0.5em 1em;
+    border-radius: 16px;
+    font-size: 14px;
+  }
+  
+  .chip--default {
+    background-color: #6c757d;
+    color: white;
+  }
+  
+  .chip--primary {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .chip--secondary {
+    background-color: #6f42c1;
+    color: white;
+  }
+  
+  .chip--success {
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .chip--warning {
+    background-color: #ffc107;
+    color: black;
+  }
+  
+  .chip--danger {
+    background-color: #dc3545;
+    color: white;
+  }
+  
