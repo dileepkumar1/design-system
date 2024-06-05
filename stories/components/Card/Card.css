@@ -1,0 +1,40 @@
+.card {
+    padding: 16px;
+    background-color: white;
+    border: 1px solid #ddd;
+  }
+  
+  /* Shadow variants */
+  .shadow-none {
+    box-shadow: none;
+  }
+  
+  .shadow-small {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .shadow-medium {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .shadow-large {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Radius variants */
+  .radius-none {
+    border-radius: 0;
+  }
+  
+  .radius-small {
+    border-radius: 4px;
+  }
+  
+  .radius-medium {
+    border-radius: 8px;
+  }
+  
+  .radius-large {
+    border-radius: 16px;
+  }
+  
