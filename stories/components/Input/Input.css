@@ -1,0 +1,36 @@
+/* Input.css */
+.input {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+  }
+  
+  .input--default {
+    width: 200px;
+  }
+  
+  .input--medium {
+    width: 250px;
+  }
+  
+  .input--large {
+    width: 300px;
+  }
+  
+  .input--border-none {
+    border-radius: 0;
+  }
+  
+  .input--border-small {
+    border-radius: 4px;
+  }
+  
+  .input--border-large {
+    border-radius: 8px;
+  }
+  
+  .input:disabled {
+    background-color: #f5f5f5;
+    cursor: not-allowed;
+  }
+  

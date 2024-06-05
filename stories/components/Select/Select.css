@@ -1,0 +1,26 @@
+/* Select.css */
+.select {
+    padding: 8px;
+    font-size: 16px; /* Default font size */
+  }
+  
+  .select.default {
+    width: 200px;
+    font-size: 16px; /* Default size font */
+  }
+  
+  .select.medium {
+    width: 150px;
+    font-size: 14px; /* Smaller font for medium size */
+  }
+  
+  .select.small {
+    width: 100px;
+    font-size: 12px; /* Smaller font for small size */
+  }
+  
+  .select.large {
+    width: 250px;
+    font-size: 18px; /* Larger font for large size */
+  }
+  
